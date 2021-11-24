@@ -26,6 +26,6 @@
 <div>
     <h3>Screenshot</h3>
     <br>
-    <img src="/src/assets/rocketshoes-landpage.png">
-    <img src="/src/assets/rocketshoes-carrinho.png">
+    <img src="/src/assets/images/rocketshoes-landpage.png">
+    <img src="/src/assets/images/rocketshoes-carrinho.png">
 </div>
